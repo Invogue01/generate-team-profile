@@ -1,15 +1,15 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-const Engineer = require("./lib/Engineer");
-const Intern = require("./lib/Intern");
-const Manager = require("./lib/Manager");
+const Engineer = require("./staff/Engineer");
+const Intern = require("./staff/Intern");
+const Manager = require("./staff/Manager");
 
-// Globally contain all the team members so later can render to HTML
+// Globally store all the team members so later can render to HTML
 const container = {
     teamMembers: []
 };
 
-// Display menu
+// Menu display
 console.log(`
 Team Profile Generator
 ==========================
@@ -17,7 +17,7 @@ By Andrea Mac. Generate a web-page of your project team members.
 `);
 askMainMenu();
 
-// Ask for role at the beginning and each time a role is chosen and its questions answered, until user chooses Finished.
+// Ask for staff role at the beginning and each time a role is chosen and its questions answered, until user chooses Finished.
 function askMainMenu() {
 
     inquirer
