@@ -11,9 +11,9 @@ const container = {
 
 // Display menu
 console.log(`
-Team Members Generator
+Team Profile Generator
 ==========================
-By Weng Fei Fung. Generate a web-page of your development team's members.
+By Andrea Mac. Generate a web-page of your project team members.
 `);
 askMainMenu();
 
