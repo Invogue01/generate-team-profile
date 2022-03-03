@@ -1,0 +1,30 @@
+{
+  "name": "npm-init-generate-team-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Invogue01/generate-team-profile.git"
+  },
+  "keywords": [
+    "team-profile-generator",
+    "node.js",
+    "javascript",
+    "packadge.json"
+  ],
+  "author": "andrea mac aleatrengrouse@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Invogue01/generate-team-profile/issues"
+  },
+  "homepage": "https://github.com/Invogue01/generate-team-profile#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1"
+  }
+}
