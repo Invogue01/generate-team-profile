@@ -44,5 +44,5 @@ The following image shows a mock-up of the generated HTML’s appearance and fun
 ![](./images/ui.png)
 ## Video
 
-[Browser based Video Walkthrough](./video/appVideo.webm)
+[Browser based Video Walkthrough. Click Download/View Raw to display](./video/appVideo.webm)
 
