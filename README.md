@@ -1,5 +1,4 @@
 # generate-team-profile
-# 10 Object-Oriented Programming: Team Profile Generator
 
 ## Project
 
@@ -40,8 +39,10 @@ THEN I exit the application, and the HTML is generated
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-![HTML webpage titled “Your team Members” features three boxes listing employee names, titles, and other key info.](./images/code.png)(./images/ui.png)
+![HTML webpage titled “Your team Members” features three boxes listing employee names, titles, and other key info.](./images/code.png)
 
-![Walkthrough Video. Please open in your Browser.](./video/Untitled_ Mar 6, 2022 7_06 PM.webm)
+![](./images/ui.png)
+## Video
 
-The styling in the image is just an example, so feel free to add your own.
+[Browser based Video Walkthrough](./video/appVideo.webm)
+
