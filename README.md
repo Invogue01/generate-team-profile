@@ -3,7 +3,13 @@
 ## Project
 
  Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. 
+## How to use
 
+1. Please clone repo onto your machine
+2. Change into cloned folder in terminal type: `cd generate-team-profile`
+3. In terminal type: `npm install` to install all dependencies 
+4. To run test type in terminal: `npm run test`
+5. To run entire application in terminal type: `npm run start`
 
 ## User Story
 
